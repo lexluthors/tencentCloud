@@ -24,6 +24,8 @@ allprojects {
         google()
         jcenter()
         maven { url 'https://jitpack.io' }
+//        maven { url "https://raw.githubusercontent.com/wkangle/KLUtils/master" }
+        maven { url "https://github.com/lexluthors/tencentCloud/tree/master" }
     }
 }
 
